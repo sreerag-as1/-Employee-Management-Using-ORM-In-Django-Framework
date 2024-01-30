@@ -15,23 +15,12 @@ MyEmployeeManagerApp is a simple Employee Management Webpage developed using Pyt
 ## Getting Started
 Follow these steps to set up MyEmployeeManagerApp on your local machine:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/MyEmployeeManagerApp.git
-   cd MyEmployeeManagerApp
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Development Server:**
+1. **Run the Development Server:**
    ```bash
    python manage.py runserver
    ```
 
-4. **Access the Application:**
+2. **Access the Application:**
    Open your web browser and navigate to [http://localhost:8000/](http://localhost:8000/) to explore MyEmployeeManagerApp.
 
 ## Project Structure
